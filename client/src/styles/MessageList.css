@@ -1,0 +1,13 @@
+.chat-thread {
+  max-height: calc(100vh - 300px);
+  overflow-y: auto;
+  overflow-x: hidden;
+  border: none;
+  margin-bottom: 10px;
+}
+
+#list-group-item-img {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
